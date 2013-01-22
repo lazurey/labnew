@@ -1,6 +1,3 @@
-新版说明
-=============
-### style.css
-还是一团乱麻
-### 内容页
-还没改
+labnew
+==========
+A new version of toodaylab theme without functions
